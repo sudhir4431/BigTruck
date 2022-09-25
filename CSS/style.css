@@ -1,0 +1,371 @@
+body{
+    font-family: Calibri,sans-serif;
+    font-size: 18px;
+    color: #2a2929;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.img-fluid{
+    max-width: 100%;
+}
+
+section{
+    float: left;
+    width: 100%;
+}
+
+.container{
+    max-width: 1300px;
+    margin: auto;
+}
+
+.logo{
+    width: 20%;
+    float: left;
+}
+
+.logo img{
+    width: 184px;
+    padding-top: 29px;
+}
+
+.contact-info{
+    width: 80%;
+    float: left;
+    font-size: 22px;
+    font-weight: 600;
+    padding-top: 29px;
+    padding-bottom: 29px;
+    padding-left: 0px;
+}
+
+.contact-info li{
+    display: inline-block;
+    margin-left: 27px;
+}
+
+.contact-info a{
+    color: #212121;
+    text-decoration: none;
+    font-size: 20px;
+    padding-left: 5px;
+}
+
+.contact-info img{
+    width: 22px;
+    position: relative;
+    top: 5px;
+}
+
+.btn{
+    background-color: #0071BA;
+    border: 1px solid #0071ba;
+    border-radius: 5px;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 5px;
+    margin-top: 25px;
+    padding: 10px 30px;
+}
+
+.banner img{
+    width: 100%;
+}
+
+.banner-title h2{
+    font-size: 70px;
+    font-weight: 600;
+    margin-top: -19%;
+    color: white;
+    text-align: center;
+}
+
+.aboutus{
+    padding: 250px 0px 50px;
+}
+.aboutus1{
+    width: 50%;
+    float: left;
+}
+
+.aboutus1 p{
+    color: #666666;
+    font-size: 21px;
+    margin-right: 60px;
+}
+
+.aboutus h1{
+    font-size: 50px;
+    padding-bottom: 20px;
+}
+
+.aboutus h2{
+    font-size: 22px;
+    color: #666666;
+    padding-bottom: 15px;
+}
+
+.aboutus2{
+    width: 50%;
+    float: left;
+}
+
+.aboutus2 img{
+    max-width: 100%;
+    border-radius: 5px;
+    padding-top: 128px;
+    width: 677px;
+    padding-left: 50px;
+}
+
+.primary{
+    background: linear-gradient(95deg, #0C659E, #248ae4 50%, #0C659E 100%);
+    padding: 50px 0px;
+}
+
+.primary1{
+    width: 50%;
+    float: left;
+}
+
+.icon{
+    width: 20%;
+    float: left;
+}
+
+.primarycontent{
+    width: 75%;
+    float: left;
+    padding-left: 30px;
+}
+
+.primarycontent h2{
+    font-size: 32px;
+    color: white;
+    margin-bottom: 20px
+}
+
+.primarycontent p{
+    color: white;
+    font-size: 20px;
+}
+
+.primary2{
+    width: 50%;
+    float: left;
+}
+
+.values{
+    background-color: #FAFAFA;
+}
+
+.line{
+    border: none;
+    width: 2.5rem;
+    height: 3px;
+    margin-top: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+    background: #0071ba;
+    box-sizing: content-box;
+    overflow: visible;
+}
+
+.Our{
+    text-align: center;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    font-size: 32px;
+}
+
+.value1{
+    width: 23.4%;
+    float: left;
+    margin-right: 20px;
+    box-shadow: 1px 1px 6px rgb(0 0 0 / 10%);
+    padding: 50px 20px;
+    border-radius: 5px;
+    min-height: 389px;
+}
+
+.imggg{
+    width: 75px;
+    height: 100px;
+}
+
+.value1:nth-child(2){
+    background: #244782;
+    color: white;
+}
+
+.value1:nth-child(3){
+    background: #79F2C0;
+}
+
+.value1:nth-child(4){
+    background: #0052cc;
+    color: white;
+}
+
+.value1:nth-child(5){
+    margin-right: 0px;
+    background: #ffc400;
+}
+
+.value1 h3{
+    font-size: 30px;
+    padding: 20px 0px;
+}
+
+.value1 p{
+    font-size: 18px;
+}
+
+.means{
+    text-align: center;
+    padding-top: 51px;
+    padding-bottom: 51px;
+    font-size: 32px;
+}
+
+.Trust1{
+    width: 48%;
+    float: left;
+    text-align: center;
+    padding: 15px;
+    box-shadow: 0px 2px 5px 1px #ccc;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+}
+
+.Trust1 h4{
+    font-weight: 800;
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+
+.Trust1:nth-child(2){
+    margin-right: 0px;
+}
+
+.Trust1:nth-child(4){
+    margin-right: 0px;
+}
+
+.Trust1 p{
+    font-size: 19px;
+    color: #706f6d;;
+}
+
+.footer-area{
+    background-color: #021a29;
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 58px;
+}
+
+.Cargo{
+    width: 33%;
+    float: left;
+    margin-right: 13px;
+}
+
+.Cargo h2{
+    font-size: 33px;
+    color: white;
+}
+
+.Cargo p{
+    font-size: 20px;
+    color: white;
+}
+
+.line1{
+    border: none;
+    width: 2.5rem;
+    height: 3px;
+    margin-top: 1rem;
+    margin-left: 0px;
+    margin-bottom: 25px;
+    background: #0071ba;
+    box-sizing: content-box;
+    overflow: visible;
+}
+
+.logos{
+    width: 28px;
+    padding: 20px 0px;
+}
+
+.Cargo h3{
+    font-size: 30px;
+    color: white;
+    padding-top: 122px;
+}
+
+.transportation{
+    width: 25%;
+    float: left;
+    color: white;
+}
+
+.transportation h3{
+    padding-top: 100px;
+    font-size: 28px;
+}
+
+.logistic{
+    width: 21%;
+    float: left;
+    color: white;
+}
+
+.logistic h3{
+    padding-top: 100px;
+    font-size: 28px;
+}
+
+.Contact{
+    width: 20%;
+    float: left;
+    color: white;
+}
+
+.Contact h3{
+    padding-top: 189px;
+    font-size: 28px;
+}
+
+.footer{
+    background-color: #05263C;
+}
+
+.copyright{
+    color: white;
+    width: 65%;
+    float: left;
+    padding: 10px 0px;
+}
+
+.App{
+    width: 35%;
+    float: left;
+}
+
+.App li{
+    color: #f8f8f8;
+    display: inline-block;
+    position: relative;
+    top: 2px;
+    margin-right: 25px;
+}
+
+

@@ -1,0 +1,226 @@
+
+@media only screen and (max-width:1280px){
+    .container{
+        max-width: 100%;
+        padding: 0px 30px;
+    }
+
+    .contact-info{
+        font-size: 19px;
+    }
+
+    .Cargo{
+        width: 32%;
+    }
+
+    .App li{
+        margin-right: 13px;
+    }
+}
+
+@media only screen and (min-width:576px) and (max-width:767px){
+    .container{
+        max-width: 100%;
+        padding: 0px 30px;
+    }
+
+    .logo{
+        width: 10%;
+    }
+
+    .logo img{
+        width: 76px;
+    }
+
+    .contact-info{
+        width: 90%;
+        font-size: 13px;
+        padding-left: 17px;
+        padding-top: 4px;
+    }
+
+    .contact-info li{
+        margin-left: 7px;
+    }
+
+    .contact-info img{
+        width: 15px;
+    }
+
+    .contact-info a{
+        font-size: 12px;
+    }
+
+    .btn{
+        font-size: 12px;
+        padding: 5px 8px;
+    }
+
+    .banner-title h2{
+        font-size: 50px;
+    }
+
+    .aboutus{
+        padding: 74px 0px 21px;
+    }
+
+    .aboutus h1 {
+        font-size: 36px;
+        padding-bottom: 20px;
+        padding-top: 15px;
+    }
+
+    .aboutus h2{
+        font-size: 18px;
+    }
+
+    .aboutus1 p{
+        font-size: 14px;
+        margin-right: 0px;
+    }
+
+    .aboutus2 img{
+        padding-top: 120px;
+        padding-left: 16px;
+    }
+
+    .primary{
+        padding: 25px 0px;
+    }
+
+    .primarycontent h2 {
+        font-size: 23px;
+    }
+
+    .primarycontent p{
+        font-size: 13px;
+    }
+
+    .Our{
+        font-size: 22px;
+        padding-top: 25px;
+    }
+
+    .value1{
+        width: 22.5%;
+        min-height: 336px;
+        padding: 25px 11px;
+    }
+
+    .imggg {
+        width: 55px;
+        height: 83px;
+    }
+
+    .value1 h3 {
+        font-size: 14px;
+        padding: 15px 0px;
+    }
+
+    .value1 p{
+        font-size: 14px;
+    }
+
+    .means{
+    font-size: 22px;
+    padding-top: 31px;
+    padding-bottom: 40px;
+    }
+
+    .Trust1{
+        width: 46.7%;
+        min-height: 343px;
+    }
+
+    .Trust1 p{
+        font-size: 13px;
+    }
+
+    .footer-area{
+        margin-top: 27px;
+        padding-top: 29px;
+    }
+
+    .Cargo{
+        width: 31%;
+    }
+
+    .Cargo h2{
+        font-size: 22px;
+        padding-top: 26px;
+    }
+
+    .Cargo p{
+        font-size: 14px;
+    }
+
+    .logos{
+        width: 21px;
+    }
+
+    .Cargo h3{
+        font-size: 22px;
+        padding-top: 215px;
+    }
+
+    .transportation h2{
+        font-size: 22px;
+    }
+
+    .transportation p{
+        font-size: 14px;
+    }
+
+    .logistic h2{
+        font-size: 22px;
+    }
+
+    .logistic p{
+        font-size: 14px;
+    }
+
+    .transportation h3{
+        font-size: 22px;
+        padding-top: 43px;
+    }
+
+    .logistic h3{
+        font-size: 22px;
+        padding-top: 42px;
+    }
+
+    .Contact h2{
+        font-size: 22px;
+        padding-top: 26px;
+    }
+
+    .Contact p{
+        font-size: 14px;
+    }
+
+    .Contact h3{
+        font-size: 22px;
+        padding-top: 226px;
+    }
+
+    .map{
+        width: 132px;
+        height: 132px;
+    }
+
+    .copyright{
+        width: 60%;
+    }
+
+    .copyright p{
+        font-size: 11px;
+    }
+
+    .App li{
+        font-size: 11px;
+    }
+
+    .App li img{
+        width: 30px;
+    }
+}
